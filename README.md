@@ -11,7 +11,7 @@ We will publish our code and datasets soon.
 
 
 User interface
-![1703167786730](https://github.com/cuiwq777/TRDM/assets/154526698/1458cf79-741b-4d33-9567-b50dc35d393b)
+![image](https://github.com/cuiwq777/TRDM/assets/154526698/8ba32b78-daa8-4d96-938e-cd9db82515b6)
 
 
 
