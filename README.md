@@ -3,7 +3,7 @@ Title: A Two-stage Real-time Discrimination Method for Spiral Weld Defects under
 
 The supplementary material (video) of our method can be found at: https://www.bilibili.com/video/BV1nu4y1a7LT
 
-We will publish our code soon.
+We will publish our code and datasets soon.
 
 <img width="805" alt="1703165854254" src="https://github.com/cuiwq777/TRDM/assets/154526698/07cb827f-0af9-445e-bf4d-db0141451279">
 
