@@ -21,7 +21,8 @@ User interface
 Demo (The video was made into a demo while some changes occurred, such as frame rate drop, resolution drop, etc. You can directly click on the link to watch our video. Thank you for your watching.)
 ![ezgif com-video-to-gif-converted (4)](https://github.com/cuiwq777/TRDM/assets/154526698/2c2e5eab-8e9c-4ffe-943a-fc65c5512635)
 
-![demo2-Compressed-with-FlexClip](https://github.com/aoihd/RSM/assets/141041853/1ed1b713-a2e7-4f64-b164-4c98fe9d32c8)
+![ezgif com-video-to-gif-converted (5)](https://github.com/cuiwq777/TRDM/assets/154526698/d51f12da-204e-4e10-b900-c5e48b4c1940)
+
 
 ![demo3-Compressed-with-FlexClip](https://github.com/aoihd/RSM/assets/141041853/ac4a4fb2-17a8-45e2-bb3b-855a38905898)
 
