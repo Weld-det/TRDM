@@ -5,7 +5,7 @@ The supplementary material (video) of our method can be found at: https://www.bi
 
 We will publish our code soon.
 
-<img width="803" alt="1703165586293" src="https://github.com/cuiwq777/TRDM/assets/154526698/527ccf2f-6ed5-4120-b69c-c4638ff2cd6c">
+<img width="805" alt="1703165854254" src="https://github.com/cuiwq777/TRDM/assets/154526698/07cb827f-0af9-445e-bf4d-db0141451279">
 
 
 
