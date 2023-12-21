@@ -5,7 +5,8 @@ The supplementary material (video) of our method can be found at: https://www.bi
 
 We will publish our code and datasets soon.
 
-<img width="805" alt="1703165854254" src="https://github.com/cuiwq777/TRDM/assets/154526698/07cb827f-0af9-445e-bf4d-db0141451279">
+<img width="805" alt="1703166816301" src="https://github.com/cuiwq777/TRDM/assets/154526698/d6866edd-5fcd-497d-ba7f-f48bc6f7aa1e">
+
 
 
 
