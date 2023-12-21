@@ -13,7 +13,8 @@ User interface
 ![image](https://github.com/cuiwq777/TRDM/assets/154526698/aed7ccc5-d2e0-452e-9822-31a53f82c76c)
 
 
-![界面演示](https://github.com/aoihd/RSM/assets/141041853/2a68be2a-7dd6-443e-9434-5cb9012c0901)
+![ezgif com-video-to-gif-converted (3)](https://github.com/cuiwq777/TRDM/assets/154526698/0a1213c3-5744-46c5-a2a7-6e7302359a0c)
+
 
 
 Demo (The video was made into a demo while some changes occurred, such as frame rate drop, resolution drop, etc. You can directly click on the link to watch our video. Thank you for your watching.)
