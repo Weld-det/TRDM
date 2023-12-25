@@ -1,7 +1,7 @@
 # TRDM
 Title: A Two-stage Real-time Discrimination Method for Spiral Weld Defects under Dynamic Fuzzy Imaging
 
-The supplementary material (video) of our method can be found at: https://www.bilibili.com/video/BV1nu4y1a7LT
+The supplementary material (video) of our method can be found at: 
 
 We will publish our code and datasets soon.
 
