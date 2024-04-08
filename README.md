@@ -3,7 +3,8 @@ Title: A Two-stage Real-time Discrimination Method for Spiral Weld Defects under
 
 The supplementary material (video) of our method can be found at:  https://youtu.be/f1y_JqG9-D8
 
-We will publish our code and datasets soon.
+This is the open source URL for the paper "A Two-stage Real-time Discrimination Method for Spiral Weld Defects under Dynamic Fuzzy Imaging" submitted to Advanced Engineering Informatics. 
+We will publish our code and datasets after the paper is accepted.
 
 <img width="805" alt="1703166816301" src="https://github.com/cuiwq777/TRDM/assets/154526698/d6866edd-5fcd-497d-ba7f-f48bc6f7aa1e">
 
