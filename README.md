@@ -28,6 +28,6 @@ Demo (The video was made into a demo while some changes occurred, such as frame 
 ![ezgif com-video-to-gif-converted (5)](https://github.com/cuiwq777/TRDM/assets/154526698/d51f12da-204e-4e10-b900-c5e48b4c1940)
 
 # SSPWX-ray-image Dataset (Static image data)
-Please go to https://github.com/aoihd/RSM to see download static image data.
+Please go to https://github.com/aoihd/RSM to see and download static image data.
 # SSPWX-ray-video Dataset (danamic image data)
 We will soon make the dynamic dataset public in the near future.
