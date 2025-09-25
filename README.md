@@ -12,12 +12,7 @@ We will publish our code and datasets soon.
 <img width="805" alt="1703166816301" src="https://github.com/cuiwq777/TRDM/assets/154526698/d6866edd-5fcd-497d-ba7f-f48bc6f7aa1e">
 
 
-
-
 # User interface
-![image](https://github.com/cuiwq777/TRDM/assets/154526698/8ba32b78-daa8-4d96-938e-cd9db82515b6)
-
-
 
 ![ezgif com-video-to-gif-converted (3)](https://github.com/cuiwq777/TRDM/assets/154526698/0a1213c3-5744-46c5-a2a7-6e7302359a0c)
 
