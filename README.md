@@ -22,12 +22,10 @@ We will publish our code and datasets soon.
 ![ezgif com-video-to-gif-converted (3)](https://github.com/cuiwq777/TRDM/assets/154526698/0a1213c3-5744-46c5-a2a7-6e7302359a0c)
 
 
-Demo (The video was made into a demo while some changes occurred, such as frame rate drop, resolution drop, etc. You can directly click on the link to watch our video. Thank you for your watching.)
-![ezgif com-video-to-gif-converted (4)](https://github.com/cuiwq777/TRDM/assets/154526698/2c2e5eab-8e9c-4ffe-943a-fc65c5512635)
-
-![ezgif com-video-to-gif-converted (5)](https://github.com/cuiwq777/TRDM/assets/154526698/d51f12da-204e-4e10-b900-c5e48b4c1940)
+# Demo 
+To better understand our method, we have made the demo public. Currently, we have developed unsupervised detection methods for static images and two-stage dynamic unsupervised anomaly detection methods. In addition, we further studied the multi-task defect detection method and instantiated our method in an industrial field. Video can be found in [YouTube] (https://youtu.be/vKmVoBKwP0Q) to see. Our multi-task detection method can be found at https://github.com/MT-weld/MTDF, a link that contains more video of the actual scene.
 
 # SSPWX-ray-image Dataset (Static image data)
 Please go to https://github.com/aoihd/RSM to see and download static image data.
-# SSPWX-ray-video Dataset (danamic image data)
-We will soon make the dynamic dataset public in the near future.
+# SSPWX-ray-video Dataset (Dynamic image screening (DIS) and Weld edge segmentation (WES) and Static defect location (SDL))
+Datasets can be found at [BaiduYun Drive](https://pan.baidu.com/s/1XbtjL58-aiNg1DxeQo6hmQ?pwd=wm4e) (code: wm4e).
