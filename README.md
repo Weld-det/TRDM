@@ -20,6 +20,15 @@ We will publish our code and datasets soon.
 # Demo 
 To better understand our method, we have made the demo public. Currently, we have developed unsupervised detection methods for static images and two-stage dynamic unsupervised anomaly detection methods. In addition, we further studied the multi-task defect detection method and instantiated our method in an industrial field. Video can be found in [YouTube] (https://youtu.be/vKmVoBKwP0Q) to see. Our multi-task detection method can be found at https://github.com/MT-weld/MTDF, a link that contains more video of the actual scene.
 
+# Our other methods
+Our unsupervised static image anomaly detection method https://github.com/aoihd/RSM (Our initial model, for the first time, applied the unsupervised anomaly detection method to the spiral weld image in practice, and obtained a good detection effect.)
+
+Our unsupervised dynamic image screening method https://github.com/Weld-det/TRDM (This is an iterative version of the static unsupervised anomaly detection method. The proposed model has the ability of dynamic fuzzy weld image screening. )
+
+Our multi-task defect detection method https://github.com/MT-weld/MTDF (A multi-task defect detection method is more conducive to the integration of the model in practical applications and software)
+
+Our fine-grained tiny defect detection method under static Static working condition https://github.com/SD-Weld/SDCT  (It has an outstanding ability to locate porosity and circular inclusion defects.) 
+
 # SSPWX-ray-image Dataset (Static image data)
 Please go to https://github.com/aoihd/RSM to see and download static image data.
 # SSPWX-ray-video Dataset (Dynamic image screening (DIS) and Weld edge segmentation (WES) and Static defect location (SDL))
